@@ -1,0 +1,138 @@
+{
+    "captions": [
+        {
+            "caption_id": 478941,
+            "caption": "a man standing in front of a brown horse near a small building"
+        },
+        {
+            "caption_id": 740728,
+            "caption": "a shower curtain sits open in an empty and clean bathroom. "
+        },
+        {
+            "caption_id": 392316,
+            "caption": "a street intersection with old buildings in the background."
+        },
+        {
+            "caption_id": 632557,
+            "caption": "a group of people sitting around a table in front of computers."
+        },
+        {
+            "caption_id": 169865,
+            "caption": "a man sitting on one of a group of motorcycles."
+        },
+        {
+            "caption_id": 548080,
+            "caption": "a row of surfboards sticking out of the sand sitting next to each other."
+        },
+        {
+            "caption_id": 37091,
+            "caption": "a baby cow standing in a pen next to another cow."
+        },
+        {
+            "caption_id": 731512,
+            "caption": "a bike parked in front of a parking meter."
+        },
+        {
+            "caption_id": 490373,
+            "caption": "a young man in a red shirt is throwing a frisbee."
+        },
+        {
+            "caption_id": 597627,
+            "caption": "three bowls filled with vegetables on top of a table."
+        }
+    ],
+    "org_filenames": [
+        {
+            "image_id": "488251",
+            "name": "10.jpg"
+        },
+        {
+            "image_id": "6213",
+            "name": "16.jpg"
+        },
+        {
+            "image_id": "115946",
+            "name": "18.jpg"
+        },
+        {
+            "image_id": "450303",
+            "name": "27.jpg"
+        },
+        {
+            "image_id": "491090",
+            "name": "30.jpg"
+        },
+        {
+            "image_id": "127517",
+            "name": "34.jpg"
+        },
+        {
+            "image_id": "124636",
+            "name": "36.jpg"
+        },
+        {
+            "image_id": "370208",
+            "name": "40.jpg"
+        },
+        {
+            "image_id": "325991",
+            "name": "49.jpg"
+        },
+        {
+            "image_id": "194940",
+            "name": "51.jpg"
+        }
+    ],
+    "aigc_filenames": [
+        [
+            "10_0.jpg",
+            "10_1.jpg",
+            "10_2.jpg"
+        ],
+        [
+            "16_0.jpg",
+            "16_1.jpg",
+            "16_2.jpg"
+        ],
+        [
+            "18_0.jpg",
+            "18_1.jpg",
+            "18_2.jpg"
+        ],
+        [
+            "27_0.jpg",
+            "27_1.jpg",
+            "27_2.jpg"
+        ],
+        [
+            "30_0.jpg",
+            "30_1.jpg",
+            "30_2.jpg"
+        ],
+        [
+            "34_0.jpg",
+            "34_1.jpg",
+            "34_2.jpg"
+        ],
+        [
+            "36_0.jpg",
+            "36_1.jpg",
+            "36_2.jpg"
+        ],
+        [
+            "40_0.jpg",
+            "40_1.jpg",
+            "40_2.jpg"
+        ],
+        [
+            "49_0.jpg",
+            "49_1.jpg",
+            "49_2.jpg"
+        ],
+        [
+            "51_0.jpg",
+            "51_1.jpg",
+            "51_2.jpg"
+        ]
+    ]
+}

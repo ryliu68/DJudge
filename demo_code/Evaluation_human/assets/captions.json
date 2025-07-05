@@ -1,0 +1,118 @@
+{
+    "captions": [
+        {
+            "caption_id": 446011,
+            "caption": "three decorated, carved jack-o-lanterns, one with pink flowers and a vase inside it"
+        },
+        {
+            "caption_id": 93787,
+            "caption": "a tour bus with a cats face painted on the front of it"
+        }
+    ],
+    "org_filenames": [
+        {
+            "image_id": "51326",
+            "name": "29.jpg"
+        },
+        {
+            "image_id": "203294",
+            "name": "48.jpg"
+        }
+    ],
+    "aigc_filenames": [
+        [
+            {
+                "name": "29_0.jpg",
+                "Quality": [
+                    "good",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "good",
+                    "good"
+                ]
+            },
+            {
+                "name": "29_1.jpg",
+                "Quality": [
+                    "bad",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "bad",
+                    "good"
+                ]
+            },
+            {
+                "name": "29_2.jpg",
+                "Quality": [
+                    "good",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "bad",
+                    "good"
+                ]
+            }
+        ],
+        [
+            {
+                "name": "48_0.jpg",
+                "Quality": [
+                    "bad",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "bad",
+                    "good"
+                ]
+            },
+            {
+                "name": "48_1.jpg",
+                "Quality": [
+                    "bad",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "bad",
+                    "good"
+                ]
+            },
+            {
+                "name": "48_2.jpg",
+                "Quality": [
+                    "good",
+                    "good"
+                ],
+                "Alignment": [
+                    "bad",
+                    "good"
+                ],
+                "Aesthetic": [
+                    "bad",
+                    "good"
+                ]
+            }
+        ]
+    ]
+}

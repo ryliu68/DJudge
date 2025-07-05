@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 nohup python -u sample.py  > logs/T2I.log  2>&1 & # PC 4168220
