@@ -46,7 +46,7 @@ The dataset contains over 445,000 images, including natural and AI-generated sam
 
 ## Citation
 
-If you use this codebase or the D-ANI dataset, please cite the following work:
+If you find this work helpful, we would greatly appreciate it if you could cite it.
 
 ```bibtex
 @inproceedings{liu2024djudge,
