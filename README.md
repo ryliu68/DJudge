@@ -50,7 +50,7 @@ If you find this work helpful, we would greatly appreciate it if you could cite 
 
 ```bibtex
 @inproceedings{liu2024djudge,
-  title = {D-Judge: How Far Are We? Evaluating the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance},
+  title = {D-Judge: How Far Are We? Assessing the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance},
   author = {Liu, Renyang and Lyu, Ziyu and Zhou, Wei and Ng, See-Kiong},
   booktitle = {ACM International Conference on Multimedia (MM)},
   organization = {ACM},
