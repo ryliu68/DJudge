@@ -1,8 +1,8 @@
-# DJudge: How Far Are We? Accessing the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance
+# DJudge: How Far Are We? Assessing the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance
 
 ## Introduction
 
-This repository contains the PyTorch implementation for the paper "D-Judge： How Far Are We? Accessing the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance".
+This repository contains the PyTorch implementation for the paper "D-Judge： How Far Are We? Assessing the Discrepancies Between AI-synthesized Images and Natural Images through Multimodal Guidance".
 
 
 ## Abstract
